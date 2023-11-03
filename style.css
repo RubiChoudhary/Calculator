@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#calculator_box{
+    height: 300px;
+    width: 800px;
+    margin-left: 400px;
+    text-align: center;
+    background-color: rgb(183, 0, 255);
+}
+#inside-box{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+#center{
+    text-align: center;
+}
+.calculator{
+    text-align: center;
+}
+#first{
+    text-align: center;
+}
+#second{
+    text-align: center;
+}
+.button-greet{
+    background-color: aquamarine;
+    text-align: center;
+}
