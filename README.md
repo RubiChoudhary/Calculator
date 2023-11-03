@@ -1,7 +1,7 @@
-style{
+style(
   #first{
   height:50px
-}
+);
 
 <div id="first">
   ![image](https://github.com/RubiChoudhary/Calculator/assets/94670586/4b1bd5d1-65f3-4365-b9e9-c792f0fe42c6)
